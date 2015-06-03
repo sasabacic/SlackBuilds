@@ -1,0 +1,7 @@
+
+Transmission is a cross-platform BitTorrent client.
+Transmission doesn't bundle toolbars, pop-up ads, flash ads, twitter tools,
+or anything else.
+
+It consist off a daemon, a GTK+, Qt and CLI client.
+Transmission is designed for easy, powerful use.
