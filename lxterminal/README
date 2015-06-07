@@ -1,0 +1,6 @@
+
+LXTerminal is the standard terminal emulator of LXDE.
+The terminal is a desktop-independent VTE-based terminal emulator 
+for LXDE without any unnecessary dependency. 
+LXTerminal supports multiple tabs. All instances of program share
+the same process to reduce memory usage. 
